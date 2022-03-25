@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>${model.title_t}</title>
+  <title>${model.title_s}</title>
   <style>
     html, body {
       color: #333;
