@@ -1,5 +1,4 @@
-import { RenderField } from '@craftercms/experience-builder/react';
-
+import { RenderField, Field } from '@craftercms/experience-builder/react';
 import logo from './logo.svg';
 import './App.css';
 
