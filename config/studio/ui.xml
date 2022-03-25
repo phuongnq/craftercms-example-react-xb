@@ -54,9 +54,9 @@
 				</widget>
 				<widget id="craftercms.components.PathNavigatorTree">
 					<configuration>
-						<label>App</label>
-						<icon id="@mui/icons-material/TuneRounded"/>
-						<rootPath>/app</rootPath>
+						<label>Templates</label>
+						<icon id="@mui/icons-material/InsertDriveFileOutlined"/>
+						<rootPath>/templates</rootPath>
 						<locale>en</locale>
 					</configuration>
 				</widget>
@@ -65,6 +65,14 @@
 						<label>Scripts</label>
 						<icon id="@mui/icons-material/CodeRounded"/>
 						<rootPath>/scripts</rootPath>
+						<locale>en</locale>
+					</configuration>
+				</widget>
+				<widget id="craftercms.components.PathNavigatorTree">
+					<configuration>
+						<label>App</label>
+						<icon id="@mui/icons-material/TuneRounded"/>
+						<rootPath>/app</rootPath>
 						<locale>en</locale>
 					</configuration>
 				</widget>
